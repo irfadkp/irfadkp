@@ -1,5 +1,4 @@
 ## IRFAD KP
-**Hi**
 
 
 <a href="https://irfadkp.github.io/mywebsite/"><img align="center" alt="Hi" width="20%" src="unnamed.png" /></a><br>
