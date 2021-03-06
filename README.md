@@ -2,7 +2,7 @@
 **Hi**
 
 
-<a href="https://irfadkp.github.io/mywebsite/"><img align="center" alt="Hi" width="20%" src="" /></a><br>
+<a href="https://irfadkp.github.io/mywebsite/"><img align="center" alt="Hi" width="20%" src="unnamed.png" /></a><br>
 
 <img align="center" alt="Xidhu's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xidhu&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
   
