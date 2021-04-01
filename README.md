@@ -3,7 +3,7 @@
 
 
 
-<img align="center" alt="Xidhu's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xidhu&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+<img align="center" alt="Irfads's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xidhu&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
   
  
 <br>
@@ -13,7 +13,7 @@
 
 
 
-<img align="center" alt="Irfads's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&theme=radical " />
+<img align="center" alt="Irfads's Github Stats" src="https://github-readme-stats.vercel.app/api?username=irfadkp&show_icons=true&theme=radical " />
 
 
   ####  How to reach me:   
