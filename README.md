@@ -3,7 +3,7 @@
 
 
 
-<img align="center" alt="Irfads's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfadkp&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+<img align="center" alt="Irfads's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfadkp&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
   
  
 <br>
